@@ -1,23 +1,27 @@
 export const projects = [
   {
-    title: "Project One",
-    description: "A responsive web application built with React and Tailwind CSS.",
+    title: "Saas Web Application",
+    description: "A responsive web application built with React and Tailwind CSS. Features include user authentication, real-time updates, and a modern user interface.",
     tech: ["React", "Tailwind", "Node.js"],
     demoLink: "#",
-    codeLink: "#"
+    codeLink: "#",
+    image: "/images/saas.png"
   },
   {
-    title: "Project Two",
-    description: "An e-commerce platform with dynamic product filtering.",
-    tech: ["React", "Redux", "Firebase"],
+    title: "Studio Spa Website",
+    description: "A responsive web application built with React and Tailwind CSS. Features include user authentication, real-time updates, and a modern user interface.",
+    tech: ["React", "Tailwind", "Node.js"],
     demoLink: "#",
-    codeLink: "#"
+    codeLink: "#",
+    image: "/images/spa.png"
   },
   {
-    title: "Project Three",
-    description: "A real-time dashboard with data visualization.",
-    tech: ["React", "D3.js", "API"],
+    title: "Project One",
+    description: "A responsive web application built with React and Tailwind CSS. Features include user authentication, real-time updates, and a modern user interface.",
+    tech: ["React", "Tailwind", "Node.js"],
     demoLink: "#",
-    codeLink: "#"
-  }
+    codeLink: "#",
+    image: "/path-to-your-image.jpg"
+  },
+
 ];
